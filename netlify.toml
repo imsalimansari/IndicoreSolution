@@ -1,0 +1,7 @@
+# Only needed if you choose Netlify instead of Vercel
+[build]
+  base = "client"
+  command = "npm run build"
+  publish = "dist"
+[build.environment]
+  NODE_VERSION = "20"

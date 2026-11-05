@@ -1,0 +1,1 @@
+{"name":"indicore-solution","private":true,"scripts":{"dev":"concurrently -n api,web \"npm --prefix server run dev\" \"npm --prefix client run dev\"","install:all":"npm i && npm --prefix server i && npm --prefix client i","build":"npm --prefix client i && npm --prefix client run build","start":"npm --prefix server start"},"devDependencies":{"concurrently":"^8.2.2"}}

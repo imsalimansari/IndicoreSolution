@@ -1,0 +1,13 @@
+{
+  "name": "INDICORE SOLUTION",
+  "short_name": "INDICORE",
+  "description": "Udyam-registered MSME building AI, automation, web, mobile and branding solutions for startups and MSMEs.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#050a1f",
+  "theme_color": "#050a1f",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
